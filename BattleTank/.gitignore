@@ -18,6 +18,7 @@
 *.so
 *.dylib
 *.dll
+*/StarterContent/
 
 # Fortran module files
 *.mod
