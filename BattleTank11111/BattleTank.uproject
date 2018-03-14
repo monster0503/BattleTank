@@ -9,8 +9,12 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
+<<<<<<< HEAD:BattleTank11111/BattleTank.uproject
 				"Engine",
 				"AIModule"
+=======
+				"Engine"
+>>>>>>> 2d2e0d6a7365b77fbfefca5fefd35191a16a2de8:BattleTank/BattleTank.uproject
 			]
 		}
 	]
